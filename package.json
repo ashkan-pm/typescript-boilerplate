@@ -1,5 +1,5 @@
 {
-  "name": "typescript-boilerplate",
+  "name": "typescript-esbuild-boilerplate",
   "version": "0.0.0",
   "description": "Boilerplate for creating TypeScript applications and libraries",
   "author": {
