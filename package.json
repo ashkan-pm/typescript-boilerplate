@@ -1,6 +1,6 @@
 {
   "name": "typescript-esbuild-boilerplate",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Boilerplate for creating TypeScript applications and libraries",
   "author": {
     "name": "Ashkan Pourghasem",
